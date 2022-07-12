@@ -1,1 +1,10 @@
 GET http://localhost:8080/
+
+###
+GET http://localhost:8080/jwt
+Access: 1234
+
+###
+GET http://localhost:8080/
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NTc3MDI1NjV9.wGQb7UcXE7FQ8o-aUOHPrOC75dlbdyWvkZ3gQTE_klY
+
